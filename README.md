@@ -13,8 +13,6 @@ As Electrical and Computer Engineers contributing to the safe tagging of whales,
 ## Nicolas Zerbinopoulos
 **Personal Email**: naz1008@usnh.edu
 
-**Phone Number**: (603)867-8935
-
 **Linkedin**: [https://www.linkedin.com/in/nicolas-zerbinopoulos/](https://www.linkedin.com/in/nicolas-zerbinopoulos/)
 
 **Website**: [https://www.nicbudd.com/](https://www.nicbudd.com/)
