@@ -1,6 +1,7 @@
 # Welcome to the website for the Electrical and Computer Engineers of Safe Whale Tagging (SWaT) 
 
 ## About the ECE contribution to the project
+As Electrical and Computer Engineers contributing to the safe tagging of whales, our goal was to develop a sensor payload to measure the required data using as little power as possible and at the cheapest possible cost.
 
 ## Alexander Watkins
 **Personal Email**:
