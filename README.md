@@ -10,6 +10,7 @@ As Electrical and Computer Engineers contributing to the safe tagging of whales,
 
 **Linkedin**: https://www.linkedin.com/in/alex-watkins-1b9008274/
 
+
 ## Nicolas Zerbinopoulos
 **Personal Email**: naz1008@usnh.edu
 
@@ -18,6 +19,7 @@ As Electrical and Computer Engineers contributing to the safe tagging of whales,
 **Linkedin**: www.linkedin.com/in/nicolas-zerbinopoulos/
 
 **Website**: https://www.nicbudd.com/
+
 
 ## Paxton Dionne
 **Personal Email**: paxtondionne@gmail.com
