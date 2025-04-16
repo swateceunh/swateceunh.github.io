@@ -8,21 +8,21 @@ As Electrical and Computer Engineers contributing to the safe tagging of whales,
 
 **Phone Number**: (603)722-4062
 
-**Linkedin**: https://www.linkedin.com/in/alex-watkins-1b9008274/
+**Linkedin**: [https://www.linkedin.com/in/alex-watkins-1b9008274/](https://www.linkedin.com/in/alex-watkins-1b9008274/)
 
 ## Nicolas Zerbinopoulos
 **Personal Email**: naz1008@usnh.edu
 
 **Phone Number**: (603)867-8935
 
-**Linkedin**: www.linkedin.com/in/nicolas-zerbinopoulos/
+**Linkedin**: [https://www.linkedin.com/in/nicolas-zerbinopoulos/](https://www.linkedin.com/in/nicolas-zerbinopoulos/)
 
-**Website**: https://www.nicbudd.com/
+**Website**: [https://www.nicbudd.com/](https://www.nicbudd.com/)
 
 ## Paxton Dionne
 **Personal Email**: paxtondionne@gmail.com
 
 **Phone Number**: (207)602-0345
 
-**Linkedin**: www.linkedin.com/in/paxton-dionne-64099b224
+**Linkedin**: [https://www.linkedin.com/in/paxton-dionne-64099b224](https://www.linkedin.com/in/paxton-dionne-64099b224)
 
