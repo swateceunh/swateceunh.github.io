@@ -4,7 +4,7 @@
 As Electrical and Computer Engineers contributing to the safe tagging of whales, our goal was to develop a sensor payload to measure the required data using as little power as possible and at the cheapest possible cost.
 
 ## Alexander Watkins
-**Personal Email**:
+**Personal Email**: apexalex2002@gmail.com
 
 **Phone Number**: (603)722-4062
 
